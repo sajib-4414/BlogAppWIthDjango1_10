@@ -1,11 +1,17 @@
 {% extends 'blog/base.html' %}
 
+{% block description %} {{ post.description}}{% endblock %}
 {% block title %} {{ post.seo_title}}{% endblock %}
 
 {% block content %}
-
-        <h2>{{ post.title }}</h2>
-        <p> Written by {{ post.author }} on {{post.published}}</p>
+<div class="row">
+        <div class="col-md-8">
+        <div class="page-header">
+           <h1>{{ post.title}}</h1>
+        </div>
+        <small> Written by {{ post.author }} on {{post.published}}
+            in
+            <a href="{{ post.category.get_absolute_url}}">{{post.category}}</a></small>
         <hr>
         {{post.content|linebreaks}}
         <hr>
@@ -21,4 +27,6 @@
         {% empty %}
             <p>There is no comments</p>
         {% endfor %}
+            </div>
+</div>
 {% endblock %}
