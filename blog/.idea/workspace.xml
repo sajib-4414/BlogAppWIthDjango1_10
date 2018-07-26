@@ -230,7 +230,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="admin&#9;null&#9;null&#10;list_o&#9;FILE&#9;file:///home/gnc/Desktop/python_practice/django/blog/cms/blog/templates/blog/post/list_of_post.html&#10;urls&#9;FILE&#9;file:///home/gnc/Desktop/python_practice/django/blog/cms/cms/urls.py&#10;url&#9;null&#9;null&#10;post_detail&#9;null&#9;null&#10;models&#9;null&#9;null&#10;views&#9;FILE&#9;file:///home/gnc/Desktop/python_practice/django/blog/cms/blog/views.py" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../arefin_project_venv" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
