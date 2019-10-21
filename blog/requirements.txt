@@ -81,5 +81,5 @@ Unidecode==0.4.21
 urllib3==1.22
 user-agents==1.1.0
 virtkey==0.63.0
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 xkit==0.0.0
