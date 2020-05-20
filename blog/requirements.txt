@@ -36,7 +36,7 @@ easy-thumbnails==2.5
 Flask==0.12.2
 Flask-Script==2.0.6
 html5lib==0.9999999
-httplib2==0.9.1
+httplib2==0.18.0
 idna==2.6
 itsdangerous==0.24
 Jinja2==2.10
