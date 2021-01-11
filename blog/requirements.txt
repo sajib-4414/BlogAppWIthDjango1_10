@@ -33,7 +33,7 @@ djangocms-style==2.0.2
 djangocms-text-ckeditor==3.5.3
 djangocms-video==2.0.4
 easy-thumbnails==2.5
-Flask==0.12.2
+Flask==1.0
 Flask-Script==2.0.6
 html5lib==0.9999999
 httplib2==0.18.0
