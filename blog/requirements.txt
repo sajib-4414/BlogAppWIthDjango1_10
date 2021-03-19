@@ -39,7 +39,7 @@ html5lib==0.9999999
 httplib2==0.18.0
 idna==2.6
 itsdangerous==0.24
-Jinja2==2.10.1
+Jinja2==2.11.3
 louis==2.6.4
 lxml==4.6.2
 Mako==1.0.3
